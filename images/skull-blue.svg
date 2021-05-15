@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20">
+  <g id="skull-blue" transform="translate(-3 -2)">
+    <path id="Path_2455" data-name="Path 2455" d="M16,17.93a8,8,0,1,0-8,0V21h8Z" fill="none" stroke="#303fe1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle id="Ellipse_172" data-name="Ellipse 172" cx="1" cy="1" r="1" transform="translate(7.5 9.5)" stroke-width="2" stroke="#303fe1" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <circle id="Ellipse_173" data-name="Ellipse 173" cx="1" cy="1" r="1" transform="translate(14.5 9.5)" stroke-width="2" stroke="#303fe1" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path id="Path_2456" data-name="Path 2456" d="M11.5,15l.5-1,.5,1Z" fill="none" stroke="#303fe1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

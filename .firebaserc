@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "astrotools-b5f44"
+  },
+  "targets": {
+    "astrotools-b5f44": {
+      "hosting": {
+        "astrowebsite": [
+          "astrowebsite"
+        ]
+      }
+    }
+  }
+}

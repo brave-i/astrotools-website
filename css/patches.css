@@ -1,0 +1,50 @@
+section#Features {
+  padding-top: 40px;
+}
+
+.div-block-3 {
+  background-image: url(../images/background-fixed.png);
+}
+
+section#Roadmap .slideshow {
+  margin-top: 70px;
+}
+
+@media screen and (max-width: 767px) {
+  .logo-footer {
+    text-align: center;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .footer {
+    max-width: 1280px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 100px;
+    padding-left: 100px;
+  }
+
+  .footer-flex {
+    width: 100%;
+  }
+
+  .footer-flex a.filled-btn {
+    width: auto;
+    max-width: 140px;
+    margin-left: auto;
+  }
+}
+
+/* .slideshow {
+    overflow-x: auto;
+} */
+
+@keyframes slideshow {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-33.33%);
+  }
+}
